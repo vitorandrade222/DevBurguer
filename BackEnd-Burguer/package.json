@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch src/server.js"
+    "dev": "node --watch ./src/server.js",
+    "start": "node ./src/server.js"
   },
   "keywords": [],
   "author": "",
@@ -26,6 +27,7 @@
     "yup": "^1.7.1"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.19",
     "@types/multer": "^2.0.0",
     "prettier": "^3.7.1",
     "sequelize-cli": "^6.6.3",

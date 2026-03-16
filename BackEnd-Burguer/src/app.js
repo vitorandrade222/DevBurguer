@@ -2,7 +2,7 @@ import express from 'express'
 import routes from './routes.js'
 import FileRouteConfig from './config/fileRoutes.cjs'
 import cors from 'cors'
-
+import 'dotenv/config'
 const app = express()
 
 app.use(cors())
