@@ -5,8 +5,11 @@ Projeto contendo Frontend e Backend.
 ## Estrutura
 
 meu-projeto/
+
 ├─ frontend/ # Código do front-end
+
 ├─ backend/ # Código do back-end
+
 └─ README.md
 
 ## Rodando o projeto localmente
