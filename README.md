@@ -1,4 +1,6 @@
-# Meu Projeto Fullstack
+# Meu Projeto Fullstack - DEV BURGUER
+
+![Preview do projeto](./projeto.png)
 
 Projeto contendo Frontend e Backend.
 
